@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jawad
 - ♥ I’m interested in buildng web applications
-- 💪 I am aslo pattionate about Computer Vision
+- 💪 I am aslo passionate about Computer Vision
 - 🌱 I’m currently learning web and mobile app development with React
 - 💞️ I’m looking forward to collaborating with you and your company
 

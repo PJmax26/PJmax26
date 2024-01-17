@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://jawad-frontenddev.onrender.com/](https://jawadx.vercel.app)
+- 👨‍💻 All of my projects are available at [https://jawadx.vercel.app](https://jawadx.vercel.app)
 
 - 💬 Ask me about **React, JavaScript**
 
